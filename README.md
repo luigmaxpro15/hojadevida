@@ -10,4 +10,4 @@
 # ESTUDIOS
 |**Colegio**| I.E.D La Milagrosa Fe Y Alegria|
 |-----------|--------------------------------|
-| **SENA**  | ADSO                           |
+| **SENA**  | CENTRO INDUSTRIAL Y DE AVIACION|
