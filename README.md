@@ -1,6 +1,7 @@
 # hojadevida
 mi hoja de vida
 # Luis Gabriel Cabello Sepulveda
+[foto]/[https://github.com/luigmaxpro15/hojadevida/blob/main/WIN_20230227_08_18_52_Pro.jpg]
 |**NOMBRE** | Luis Gabriel Cabello Sepulveda |
 |-----------| -------------------------------|
 |**T.I**    | 1046268369                     |
